@@ -1,0 +1,13 @@
+Package: SillyR
+Type: Package
+Title: SillyR Package
+Version: 0.1.0
+Author: Ifeanyi Idiaye
+Maintainer: Ifeanyi Idiaye <idiayeifeanyi@yahoo.com>
+Description: This R package is designed as a helper for text analytics workflows
+License: GNL-8
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    SillyR
+RoxygenNote: 7.2.3
